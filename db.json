@@ -1,41 +1,470 @@
 {
 	"SOCCN043": {
-		"SOCCN043010": "2019",
-		"SOCCN043020": "03",
-		"SOCCN043030": "120.00",
-		"SOCCN043040": "0.00",
+		"Año": "2019",
+		"Mes": "03",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
 		"SOCCN043060": [
 			"0.00",
 			"120.40"
 		],
-		"SOCCN043070": [
+		"Cuotas ramo": [
 			{
-				"SOCCN043071": "029",
-				"SOCCN043072": "Vida",
-				"SOCCN043073": "60.00",
-				"SOCCN043074": [
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
 					{
-						"SOCCN043075": "12576472",
-						"SOCCN043076": "Vida Vinculado 545-5986-002763/4",
-						"SOCCN043077": "35.00"
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
 					},
 					{
-						"SOCCN043075": "12576677",
-						"SOCCN043076": "Vida Libre 545-5986-003671/8",
-						"SOCCN043077": "25.00"
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
 					}
 				]
 			},
 			{
-				"SOCCN043071": "030",
-				"SOCCN043072": "Hogar",
-				"SOCCN043073": "60.00",
-				"SOCCN043074": {
-					"SOCCN043075": "12576925",
-					"SOCCN043076": "Hogar Libre 540-5986-001718/3",
-					"SOCCN043077": "60.00"
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
 				}
 			}
 		]
-	}
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "04",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "05",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "06",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "07",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "08",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "09",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "10",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "11",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "12",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "01",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    },
+    "SOCCN043": {
+		"Año": "2019",
+		"Mes": "02",
+		"Cuota": "120.00",
+		"Porcentaje bonificación": "0.00",
+		"SOCCN043060": [
+			"0.00",
+			"120.40"
+		],
+		"Cuotas ramo": [
+			{
+				"Código ramo": "029",
+				"Descripción ramo": "Vida",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": [
+					{
+						"Nuc seguro": "12576472",
+						"Descripción": "Vida Vinculado 545-5986-002763/4",
+						"Cuota": "35.00"
+					},
+					{
+						"Nuc seguro": "12576677",
+						"Descripción": "Vida Libre 545-5986-003671/8",
+						"Cuota": "25.00"
+					}
+				]
+			},
+			{
+				"Código ramo": "030",
+				"Descripción ramo": "Hogar",
+				"Cuota ramo": "60.00",
+				"Cuotas seguro": {
+					"Nuc seguro": "12576925",
+					"Descripción": "Hogar Libre 540-5986-001718/3",
+					"Cuota": "60.00"
+				}
+			}
+		]
+    }
 }
