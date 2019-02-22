@@ -161,45 +161,4 @@
 			}
 		]
     }
-},
-{
-    "SOCCN043": {
-		"Año": "2019",
-		"Mes": "07",
-		"Cuota": "120.00",
-		"Porcentaje bonificación": "0.00",
-		"SOCCN043060": [
-			"0.00",
-			"120.40"
-		],
-		"Cuotas ramo": [
-			{
-				"Código ramo": "029",
-				"Descripción ramo": "Vida",
-				"Cuota ramo": "60.00",
-				"Cuotas seguro": [
-					{
-						"Nuc seguro": "12576472",
-						"Descripción": "Vida Vinculado 545-5986-002763/4",
-						"Cuota": "35.00"
-					},
-					{
-						"Nuc seguro": "12576677",
-						"Descripción": "Vida Libre 545-5986-003671/8",
-						"Cuota": "25.00"
-					}
-				]
-			},
-			{
-				"Código ramo": "030",
-				"Descripción ramo": "Hogar",
-				"Cuota ramo": "60.00",
-				"Cuotas seguro": {
-					"Nuc seguro": "12576925",
-					"Descripción": "Hogar Libre 540-5986-001718/3",
-					"Cuota": "60.00"
-				}
-			}
-		]
-    }
 }]
